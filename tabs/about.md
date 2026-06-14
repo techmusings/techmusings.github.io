@@ -7,7 +7,7 @@ title: About
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-A **Solution Architect** with keen interest on scalable design, Machine Learning, MLOps, platforms, Linux, open source software, distributed computing (Kubernetes), containerization, and the cloud.
+A **System Architect** with keen interest on scalable design, Machine Learning, ML-Ops, Platforms, Linux, open source software, distributed computing (Kubernetes), containerization, and the cloud.
 
 ### Contact me
 
